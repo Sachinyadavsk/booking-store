@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.937954104.1755060711&semt=ais_hybrid&w=740&q=80"
+    },
+    {
+        "id": 2,
+        "name": "The Great Gatsby",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+        "price": 0,
+        "category": "Fiction",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.937954104.1755060711&semt=ais_hybrid&w=740&q=80"
+    },
+    {
+        "id": 3,
+        "name": "Comedy Book",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.937954104.1755060711&semt=ais_hybrid&w=740&q=80"
+    },
+    {
+        "id": 4,
+        "name": "Moby-Dick",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+        "price": 0,
+        "category": "Adventure",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.937954104.1755060711&semt=ais_hybrid&w=740&q=80"
+    },
+    {
+        "id": 5,
+        "name": "Food Book",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.937954104.1755060711&semt=ais_hybrid&w=740&q=80"
+    },
+    {
+        "id": 6,
+        "name": "Brave New World",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+        "price": 0,
+        "category": "Dystopian",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.937954104.1755060711&semt=ais_hybrid&w=740&q=80"
+    },
+    {
+        "id": 7,
+        "name": "Political Book",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.937954104.1755060711&semt=ais_hybrid&w=740&q=80"
+    },
+    {
+        "id": 8,
+        "name": "War and Peace",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+        "price": 0,
+        "category": "Epic",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.937954104.1755060711&semt=ais_hybrid&w=740&q=80"
+    },
+    {
+        "id": 9,
+        "name": "Chemenical book",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.937954104.1755060711&semt=ais_hybrid&w=740&q=80"
+    },
+    {
+        "id": 10,
+        "name": "Wuthering Heights",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+        "price": 0,
+        "category": "PaiGothicd",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.937954104.1755060711&semt=ais_hybrid&w=740&q=80"
+    },
+    {
+        "id": 11,
+        "name": "Funtionlity book",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.937954104.1755060711&semt=ais_hybrid&w=740&q=80"
+    },
+    {
+        "id": 12,
+        "name": "The Odyssey",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+        "price": 0,
+        "category": "Mythology",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.937954104.1755060711&semt=ais_hybrid&w=740&q=80"
+    }
+]
