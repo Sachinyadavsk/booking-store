@@ -1,8 +1,9 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
-// https://vite.dev/config/
+
+// Change `repo-name` to your repo when deploying to GitHub Pages
 export default defineConfig({
   plugins: [react()],
-  base:"/booking-store/",
-})
+  base: process.env.NODE_ENV === 'production' ? '/booking-store/' : '/',
+});
