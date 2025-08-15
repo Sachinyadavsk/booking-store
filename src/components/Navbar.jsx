@@ -31,7 +31,7 @@ const Navbar = () => {
     }, []);
     const navItem = (
         <>
-            <li><a href='/booking-store/'>Home</a></li>
+            <li><a href='/'>Home</a></li>
             <li><a href='/booking-store/about'>About</a></li>
             <li><a href='/booking-store/store'>Store</a></li>
             <li><a href='/booking-store/contact'>Contact</a></li>
