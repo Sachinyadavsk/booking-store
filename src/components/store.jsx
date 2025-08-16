@@ -13,7 +13,7 @@ const store = () => {
              Reprehenderit exercitationem ex, minus vitae quia facere sint dolorem harum aliquam, sit temporibus ipsum eius doloribus.
              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde enim dolorem error perferendis porro incidunt molestias optio 
              nisi ullam hic non, iste recusandae voluptatum itaque eligendi expedita magnam repellendus ab? </p>
-          <Link to="/booking-store/">
+          <Link to="/">
           <button className="mt-6 bg-pink-600 text-white py-2 px-3 cursor-pointer duration-200 rounded-md hover:bg-pink-700">Back</button>
           </Link>
         </div>

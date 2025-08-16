@@ -4,6 +4,7 @@ import { Route, Routes } from 'react-router-dom'
 import Stores from './stores/Stores'
 import About from './about/About'
 import Contact from './contact/Contacts'
+import Signup from './components/Signup'
 
 
 const App = () => {
@@ -15,6 +16,7 @@ const App = () => {
           <Route path='/store' element={<Stores />} />
           <Route path='/about' element={<About />} />
           <Route path='/contact' element={<Contact />} />
+          <Route path='/signup' element={<Signup />} />
         </Routes>
       </div>
     </>
