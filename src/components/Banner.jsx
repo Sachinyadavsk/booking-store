@@ -29,7 +29,7 @@ const Banner = () => {
         <button className="mt-6 btn btn-secondary">Secondary</button>
       </div>
       <div className="w-full order-1 md:w-1/2">
-      <img src={banner} alt="" className="w-92 h-92"/>
+      <img src={banner} alt="image" className="w-92 h-92"/>
       </div>
     </div>
   )

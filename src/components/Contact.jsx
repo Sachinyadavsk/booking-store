@@ -10,7 +10,7 @@ const Contact = () => {
                 </h1>
                 <p className="mt-4">Have a question about our books, orders, or upcoming events? We’d love to hear from you! Reach out to our friendly team for inquiries, recommendations, or support. Whether you’re searching for your next great read or need help with your purchase, we’re here to assist you.
                     If you want, I can also make a more creative, cozy bookstore-style version that feels warmer and reader-friendly.</p>
-                <img src={imgc} className="mt-5" alt="" />
+                <img src={imgc} className="mt-5" alt="image" />
             </div>
         </div>
     )

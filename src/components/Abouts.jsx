@@ -15,10 +15,10 @@ const Abouts = () => {
                 <h1 className="text-xl md:text-4xl mt-4 hover:text-blue-600 duration-200 underline">Why Learn React and React Native?</h1>
                 <div className="flex flex-col md:flex-row">
                     <div className="w-full order-2 md:order-1 md:w-1/2 mt-6">
-                        <img src={imgr} className="w-[660px]" alt="" srcset="" />
+                        <img src={imgr} className="w-[660px]" alt="image" />
                     </div>
                     <div className="w-full order-2 md:order-1 md:w-1/2 mt-6">
-                        <img src={imgrn} className="w-[660px]" alt="" srcset="" />
+                        <img src={imgrn} className="w-[660px]" alt="image" />
                     </div>
                 </div>
                 <div className="card">
